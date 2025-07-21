@@ -69,10 +69,5 @@ Clone the repo:
 ```bash
 git clone https://github.com/Kishorsahoo934/Resume-Screening-using-NLP.git
 cd Resume-Screening-using-NLP
-Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
